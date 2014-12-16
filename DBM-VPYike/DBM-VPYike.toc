@@ -1,0 +1,13 @@
+﻿## Interface: 60000
+## X-Min-Interface: 60000
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Sound-Yike|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0夏一可语音包|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0夏一可語音包|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Yike Xia, Mini_Dragon
+## Notes: X-DBM-Voice-Name Should be long name you want to appear in dropdown menu; X-DBM-Voice-ShortName should be short name that matches folder name after DBM-VP. So for example, DBM-VPYike would be "Yike" for a short name.
+## Version: 14.12.02
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Yike Xia(夏一可)
+## X-DBM-Voice-ShortName: Yike
