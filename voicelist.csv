@@ -11,10 +11,8 @@ dispelboss,驱散boss,dispel boss
 
 159947r,准备投掷,toss coming
 159947y,你被投掷,toss on you
-dashrun,"冲锋,注意躲开","dash, run"
 159202,火柱出现,Flame pillar appears
 159202f,快找火柱,find Flame pillar
-teamout,队友出场,team out
 
 156157,顺劈斩,Cleave
 156160,准备击飞,Bounding Cleave Coming
@@ -50,3 +48,10 @@ kick1r,1打断准备,interrupt 1 get ready
 kick2r,2打断准备,interrupt 2 get ready
 kick3r,3打断准备,interrupt 3 get ready
 kick4r,4打断准备,interrupt 4 get ready
+
+gathershare(same as ex_tt_jhfd),集合分担-一可不用录,share the damage
+
+mobout,拉开小怪,taunt mob out
+bombyou,"快跑, 炸弹点你","bomb on you, run"
+
+157060,快进黄色符文,touch yellow runes
