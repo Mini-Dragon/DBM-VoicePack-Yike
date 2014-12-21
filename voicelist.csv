@@ -52,7 +52,7 @@ kick4r,4打断准备,interrupt 4 get ready
 gathershare(same as ex_tt_jhfd),集合分担-一可不用录,share the damage
 
 mobout,拉开小怪,taunt mob out
-bombyou,"快跑, 炸弹点你","bomb on you, run"
+bombyrun,"快跑, 炸弹点你","bomb on you, run"
 
 findgather(same as ex_tt_zrkj),,
 
