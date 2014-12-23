@@ -33,8 +33,9 @@ dispelboss,驱散boss,dispel boss
 158200,地震,Quake
 
 ,残渣出现,
+172895,返回原位,return to start
 161612,准备接球,ball soon
-161411,,run away from ice orb
+161411,远离冰球,run away from ice orb
 
 157349,,force nova coming
 160702,快打炮,attack cannon
@@ -92,5 +93,5 @@ Thogar/C14,,lane 1 and 4 cannons
 1695gorak,高莱克,gorak on the boat
 1695ukurogg,乌克罗格,uk'urogg on the boat
 
-ej9571,,attack tank
+ej9571,坦克快打,attack tank
 156096,,marked for death
