@@ -19,7 +19,7 @@ dispelboss,驱散boss,dispel boss
 
 162894,大地之赐,Gift of Earth
 
-163142k,真菌食肉者快打,Attack Evolved Fungus
+163142k,真菌食肉者快打,Attack Flesh Eater
 163594k,孢子投射者快打,Attack Spore Shooter
 163141k,食脑真菌快打,Attack Mind Fungus
 160022s,绿蘑菇出现,green Mushroom coming
@@ -54,6 +54,43 @@ gathershare(same as ex_tt_jhfd),集合分担-一可不用录,share the damage
 mobout,拉开小怪,taunt mob out
 bombyrun,"快跑, 炸弹点你","bomb on you, run"
 
-findgather(same as ex_tt_zrkj),,
-
 157060,快进黄色符文,touch yellow runes
+
+Thogar/A1,,lane 1 express
+Thogar/A2,,lane 2 express
+Thogar/A3,,lane 3 express
+Thogar/A4,,lane 4 express
+Thogar/AX,,random express
+Thogar/B1,,lane 1 Reinforcements
+Thogar/B2,,lane 2 Reinforcements
+Thogar/B3,,
+Thogar/B4,,lane 4 Reinforcements
+Thogar/BX,,random Reinforcements
+Thogar/C1,,lane 1 cannon
+Thogar/C2,,lane 2 cannon
+Thogar/C3,,lane 3 cannon
+Thogar/C4,,lane 4 cannon
+Thogar/CX,,random cannon
+Thogar/D1,,lane 1 Man On Arms
+Thogar/D2,,
+Thogar/D3,,lane 3 Man On Arms
+Thogar/D4,,lane 4 Man On Arms
+Thogar/DX,,random Man On Arms
+Thogar/E1,,lane 1 Deforester
+Thogar/E2,,lane 2 Deforester
+Thogar/E3,,lane 3 Deforester
+Thogar/E4,,lane 4 Deforester
+Thogar/EX,,random Deforester
+Thogar/F,,3 Random Lanes
+Thogar/A14,,lane 1 and 4 expresses
+Thogar/D2B3,,lane 2 Man On Arms and lane 3 Reinforcements
+Thogar/C14,,lane 1 and 4 cannons
+
+158078(same as ex_so_yllx),一可不用录,far away from lines
+158599,,"attack turret"
+1695ukurogg,乌克塔,ukurogg on the boat
+1695gorak,高莱克,gorak on the boat
+1695ukurogg,乌克罗格,uk'urogg on the boat
+
+ej9571,,attack tank
+156096,,marked for death
