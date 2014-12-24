@@ -56,41 +56,41 @@ bombyrun,"快跑, 炸弹点你","bomb on you, run"
 
 157060,快进黄色符文,touch yellow runes
 
-Thogar/A1,,lane 1 express
-Thogar/A2,,lane 2 express
-Thogar/A3,,lane 3 express
-Thogar/A4,,lane 4 express
-Thogar/AX,,random express
-Thogar/B1,,lane 1 Reinforcements
-Thogar/B2,,lane 2 Reinforcements
-Thogar/B3,,lane 3 Reinforcements
-Thogar/B4,,lane 4 Reinforcements
-Thogar/BX,,random Reinforcements
-Thogar/C1,,lane 1 cannon
-Thogar/C2,,lane 2 cannon
-Thogar/C3,,lane 3 cannon
-Thogar/C4,,lane 4 cannon
-Thogar/CX,,random cannon
-Thogar/D1,,lane 1 Man On Arms
-Thogar/D2,,lane 2 Man On Arms
-Thogar/D3,,lane 3 Man On Arms
-Thogar/D4,,lane 4 Man On Arms
-Thogar/DX,,random Man On Arms
-Thogar/E1,,lane 1 Deforester
-Thogar/E2,,lane 2 Deforester
-Thogar/E3,,lane 3 Deforester
-Thogar/E4,,lane 4 Deforester
-Thogar/EX,,random Deforester
-Thogar/F,,3 Random Lanes
-Thogar/A14,,lane 1 and 4 expresses
-Thogar/D2B3,,lane 2 Man On Arms and lane 3 Reinforcements
-Thogar/C14,,lane 1 and 4 cannons
+Thogar/A1,一轨道快车,lane 1 express
+Thogar/A2,二轨道快车,lane 2 express
+Thogar/A3,三轨道快车,lane 3 express
+Thogar/A4,四轨道快车,lane 4 express
+Thogar/AX,随机轨道快车,random express
+Thogar/B1,一轨道小怪,lane 1 Reinforcements
+Thogar/B2,二轨道小怪,lane 2 Reinforcements
+Thogar/B3,三轨道小怪,lane 3 Reinforcements
+Thogar/B4,四轨道小怪,lane 4 Reinforcements
+Thogar/BX,随机轨道小怪,random Reinforcements
+Thogar/C1,一轨道火炮,lane 1 cannon
+Thogar/C2,二轨道火炮,lane 2 cannon
+Thogar/C3,三轨道火炮,lane 3 cannon
+Thogar/C4,四轨道火炮,lane 4 cannon
+Thogar/CX,随机轨道火炮,random cannon
+Thogar/D1,一轨道大怪,lane 1 Man On Arms
+Thogar/D2,二轨道大怪,lane 2 Man On Arms
+Thogar/D3,三轨道大怪,lane 3 Man On Arms
+Thogar/D4,四轨道大怪,lane 4 Man On Arms
+Thogar/DX,随机轨道大怪,random Man On Arms
+Thogar/E1,一轨道喷火,lane 1 Deforester
+Thogar/E2,二轨道喷火,lane 2 Deforester
+Thogar/E3,三轨道喷火,lane 3 Deforester
+Thogar/E4,四轨道喷火,lane 4 Deforester
+Thogar/EX,随机轨道喷火,random Deforester
+Thogar/F,随机三轨道快车,3 Random Lanes
+Thogar/A14,一四轨道快车,lane 1 and 4 expresses
+Thogar/B23,二三轨道小怪,lane 2 and 3 Reinforcements
+Thogar/C14,一四轨道火炮,lane 1 and 4 cannons
 
-158078(same as ex_so_yllx),一可不用录,far away from lines
-158599,,"attack turret"
-1695uktar,乌克塔,uktar on the boat
-1695gorak,高莱克,gorak on the boat
-1695ukurogg,乌克罗格,uk'urogg on the boat
+158078(same as ex_so_yllx),远离连线--一可不用录,far away from lines
+158599,火炮快打,"attack turret"
+1695uktar,乌克塔准备,uktar on the boat
+1695gorak,高莱克准备,gorak on the boat
+1695ukurogg,乌克罗格准备,uk'urogg on the boat
 
 ej9571,坦克快打,attack tank
-156096,,marked for death
+156096,死亡标记,marked for death
