@@ -1,4 +1,4 @@
-Filename,Chinese,English
+Filename,Chinese,English,Korean
 153247,陨石快躲,Meteor run!
 findshelter,快找掩体,find shelter
 findshadow,快进阴影,get inside the shadow
@@ -44,12 +44,13 @@ frenzy,狂乱,frenzy
 pfour,4阶段准备,phase 4
 ptran,转阶段准备,Transition phase 
 ,炼狱打击,
-kick1r,1打断准备,interrupt 1 get ready
-kick2r,2打断准备,interrupt 2 get ready
-kick3r,3打断准备,interrupt 3 get ready
-kick4r,4打断准备,interrupt 4 get ready
+kick1r,1打断准备,interrupt 1 get ready,1번 차단
+kick2r,2打断准备,interrupt 2 get ready,2번 차단
+kick3r,3打断准备,interrupt 3 get ready,3번 차단
+kick4r,4打断准备,interrupt 4 get ready,4번 차단
+kick5r,5打断准备,interrupt 5 get ready,5번 차단
 
-gathershare(same as ex_tt_jhfd),集合分担-一可不用录,share the damage
+gathershare,集合分担,share the damage
 
 mobout,拉开小怪,taunt mob out
 bombrun,"快跑, 炸弹点你","bomb on you, run"
@@ -86,7 +87,7 @@ Thogar/A14,一四轨道快车,lane 1 and 4 expresses
 Thogar/B23,二三轨道小怪,lane 2 and 3 Reinforcements
 Thogar/C14,一四轨道火炮,lane 1 and 4 cannons
 
-158078(same as ex_so_yllx),远离连线--一可不用录,far away from lines
+158078,远离连线,far away from lines
 158599,火炮快打,"attack turret"
 1695uktar,乌克塔准备,uktar on the boat
 1695gorak,高莱克准备,gorak on the boat
