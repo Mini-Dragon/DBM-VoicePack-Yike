@@ -44,11 +44,11 @@ frenzy,狂乱,frenzy
 pfour,4阶段准备,phase 4
 ptran,转阶段准备,Transition phase 
 ,炼狱打击,
-kick1r,1打断准备,interrupt 1 get ready,1번 차단
-kick2r,2打断准备,interrupt 2 get ready,2번 차단
-kick3r,3打断准备,interrupt 3 get ready,3번 차단
-kick4r,4打断准备,interrupt 4 get ready,4번 차단
-kick5r,5打断准备,interrupt 5 get ready,5번 차단
+kick1r,1打断准备,interrupt 1,1번 차단
+kick2r,2打断准备,interrupt 2,2번 차단
+kick3r,3打断准备,interrupt 3,3번 차단
+kick4r,4打断准备,interrupt 4,4번 차단
+kick5r,5打断准备,interrupt 5,5번 차단
 
 gathershare,集合分担,share the damage
 
