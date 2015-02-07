@@ -6,9 +6,10 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Yike Xia, Mini_Dragon
+## Version: 1.3.1
 ## Notes: https://github.com/Mini-Dragon/DBM-VoicePack-Yike
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Yike Xia(夏一可)
 ## X-DBM-Voice-ShortName: Yike
-## X-DBM-Voice-Version: 3 
+## X-DBM-Voice-Version: 3
 ## X-DBM-Voice-HasCount: 1
