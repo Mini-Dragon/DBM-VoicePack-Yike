@@ -92,6 +92,12 @@ Thogar/B14,一四轨道小怪,lane 1 and 4 Reinforcements
 Thogar/C1D4,一轨道火炮四轨道大怪,lane 1 cannon and lane 4 Man On Arms
 Thogar/D23,二三轨道大怪,lane 2 and 3 Man On Arms
 
+Thogar/A23,二三轨道快车,lane 2 and 3 express
+Thogar/D1C4,一轨道大怪四轨道火炮, lane 1 Man On Arms and lane 4 cannon
+Thogar/E1A23,一轨道喷火二三轨道快车,lane 1 Deforester and lane 2 and 3 express
+Thogar/B2A4,二轨道小怪四轨道快车,lane 2 Reinforcements and lane 4 express
+Thogar/E23,二三轨道喷火,lane 2 and 3 Deforester
+
 158078,远离连线,far away from lines
 158599,火炮快打,"attack turret"
 1695uktar,乌克塔准备,uktar on the boat
