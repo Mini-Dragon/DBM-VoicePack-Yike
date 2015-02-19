@@ -56,6 +56,9 @@ mobout,拉开小怪,taunt mob out
 bombrun,"快跑, 炸弹点你","bomb on you, run"
 
 157060,快进黄色符文,touch yellow runes
+ej9659,召火者出现,Fire Caller coming
+ej9657,熔渣元素出现,Slag Elemental coming
+ej9648,保安出现,Security Guard coming
 
 Thogar/A1,一轨道快车,lane 1 express
 Thogar/A2,二轨道快车,lane 2 express
@@ -91,7 +94,6 @@ Thogar/B2D3,二轨道小怪三轨道大怪, lane 2 Reinforcements and lane 3 Man
 Thogar/B14,一四轨道小怪,lane 1 and 4 Reinforcements
 Thogar/C1D4,一轨道火炮四轨道大怪,lane 1 cannon and lane 4 Man On Arms
 Thogar/D23,二三轨道大怪,lane 2 and 3 Man On Arms
-
 Thogar/A23,二三轨道快车,lane 2 and 3 express
 Thogar/D1C4,一轨道大怪四轨道火炮, lane 1 Man On Arms and lane 4 cannon
 Thogar/E1A23,一轨道喷火二三轨道快车,lane 1 Deforester and lane 2 and 3 express
