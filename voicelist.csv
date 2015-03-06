@@ -31,19 +31,16 @@ dispelboss,驱散boss,dispel boss
 158057,致衰咆哮,Enfeebling Roar
 158200,地震,Quake
 
-,残渣出现,
 172895,返回原位,return to start
 161612,准备接球,ball soon
 161411,远离冰球,run away from ice orb
 
 157349,,force nova coming
 160702,快打炮,attack cannon
-20619,反伤形态,Magic Reflection
 frenzy,狂乱,frenzy
 
 pfour,4阶段准备,phase 4
 ptran,转阶段准备,Transition phase 
-,炼狱打击,
 kick1r,1打断准备,interrupt 1,1번 차단
 kick2r,2打断准备,interrupt 2,2번 차단
 kick3r,3打断准备,interrupt 3,3번 차단
@@ -91,14 +88,15 @@ Thogar/B23,二三轨道小怪,lane 2 and 3 Reinforcements
 Thogar/C14,一四轨道火炮,lane 1 and 4 cannons
 Thogar/D2C4,二轨道大怪四轨道火炮, lane 2 Man On Arms and lane 4 cannon
 Thogar/B2D3,二轨道小怪三轨道大怪, lane 2 Reinforcements and lane 3 Man On Arms
-Thogar/B14,一四轨道小怪,lane 1 and 4 Reinforcements
 Thogar/C1D4,一轨道火炮四轨道大怪,lane 1 cannon and lane 4 Man On Arms
-Thogar/D23,二三轨道大怪,lane 2 and 3 Man On Arms
 Thogar/A23,二三轨道快车,lane 2 and 3 express
 Thogar/D1C4,一轨道大怪四轨道火炮, lane 1 Man On Arms and lane 4 cannon
 Thogar/E1A23,一轨道喷火二三轨道快车,lane 1 Deforester and lane 2 and 3 express
 Thogar/B2A4,二轨道小怪四轨道快车,lane 2 Reinforcements and lane 4 express
 Thogar/E23,二三轨道喷火,lane 2 and 3 Deforester
+Thogar/B1E4,一轨道小怪四轨道喷火,lane 1 Reinforcements and lane 4 Deforester
+Thogar/D2B3,二轨道大怪三轨道小怪,lane 2 Man On Arms and lane 3 Reinforcements
+
 
 158078,远离连线,far away from lines
 158599,火炮快打,"attack turret"
