@@ -10,6 +10,7 @@ VEM English Female (previously known as default VEM voicepack)
 
 You can find the filelist here if you want to make your own voicepack.
 
+How to use: Read the webpage in curse carefully.
 
 License
 ------
