@@ -111,11 +111,11 @@ right,右,right
 ej9571,坦克快打,attack tank
 156096,死亡标记,marked for death
 
-mm1,靠近方块,move to Square 
-mm2,靠近三角,move toTriangle 
-mm3,靠近菱形,move toDiamond 
-mm4,靠近叉叉,move toCross 
-mm5,靠近星星,move toStar 
-mm6,靠近大饼,move toCircle 
-mm7,靠近月亮,move toMoon 
-mm8,靠近骷髅,move toSkull 
+mm1,靠近星星,move to Star
+mm2,靠近大饼,move to Circle 
+mm3,靠近菱形,move to Diamond 
+mm4,靠近三角,move to Triangle
+mm5,靠近月亮,move to Moon
+mm6,靠近方块,move to Square
+mm7,靠近叉叉,move to Cross
+mm8,靠近骷髅,move to Skull 
