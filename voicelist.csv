@@ -118,4 +118,7 @@ mm4,靠近三角,move to Triangle
 mm5,靠近月亮,move to Moon
 mm6,靠近方块,move to Square
 mm7,靠近叉叉,move to Cross
-mm8,靠近骷髅,move to Skull 
+mm8,靠近骷髅,move to Skull
+
+185282,弹幕快躲,"barrage run away"
+attbomb,炸弹快打,"attack bomb"
