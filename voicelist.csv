@@ -36,7 +36,6 @@ dispelboss,驱散boss,dispel boss
 161411,远离冰球,run away from ice orb
 
 157349,,force nova coming
-160702,快打炮,attack cannon
 frenzy,狂乱,frenzy
 
 pfour,4阶段准备,phase 4
@@ -126,3 +125,6 @@ attbomb,炸弹快打,"attack bomb"
 180199,邪能血球快打,"attack Fel Blood Globle"
 ej11266,嗜血者快打,"attack Blood thirster"
 ej11269,恐魔快打,"attack Hulking Terror"
+teleyou,你被傳送,teleport on you
+linegather,連線靠近,"link on you, gather"
+
