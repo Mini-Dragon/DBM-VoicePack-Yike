@@ -126,11 +126,11 @@ attbomb,炸弹快打,"attack bomb"
 ej11266,嗜血者快打,"attack Blood thirster"
 ej11269,恐魔快打,"attack Hulking Terror"
 teleyou,你被傳送,teleport on you
-linegather,連線靠近,"link on you, gather"
+linegather,連線靠近,"line, gather"
 179202,传给受害者,"throw eye to someone with debuff"
 179202h,传给治疗,"throw eye to healer"
 179202m,传给近战,"throw eye to melee"
 179202k,用眼打断,"interrupt by eye"
 179406,灵魂裂劈,"Soul Cleave"
-180004,注意宝珠,"watch orb"
+watchorb,注意宝珠,"watch orb"
 
