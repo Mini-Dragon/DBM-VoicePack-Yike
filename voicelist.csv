@@ -133,8 +133,6 @@ linegather,連線靠近,"line, gather"
 179202k,用眼打断,"interrupt by eye"
 179406,灵魂裂劈,"Soul Cleave"
 186333,快进火焰,run into the fire
-watchorb,注意宝珠,"watch orb"
-184964,拉断枷锁,break torment
 184964a,第一位拉断枷锁,break torment first
 184964b,第二位拉断枷锁,break torment second
 184964c,第三位拉断枷锁,break torment third
@@ -142,6 +140,8 @@ watchorb,注意宝珠,"watch orb"
 184964e,第五位拉断枷锁,break torment fifth
 1799doomfire,魔火之魂快打,attack doomfire spirit
 1799death,召亡者快打,attack Deathcaller
+186123,"快跑,精炼混乱点你","Wrought Chaos on you, run"
+185014,"快跑,聚焦混乱点你","Focused Chaos on you, run"
 
 centerleft,中偏左,center left
 centerright,中偏右,center right
