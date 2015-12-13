@@ -155,6 +155,6 @@ centerright,中偏右,center right
 
 181799,5秒后暗影之力,Shadow Force in 5
 backleft,左下左下左下,go back left
-backright右下右下右下,go back right
-frontleft左上左上左上,go front left
-frontright右上右上右上,go front right
+backright,右下右下右下,go back right
+frontleft,左上左上左上,go front left
+frontright,右上右上右上,go front right
