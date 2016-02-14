@@ -159,7 +159,10 @@ backright,右下右下右下,go back right
 frontleft,左上左上左上,go front left
 frontright,右上右上右上,go front right
 
+backcenter,中下中下中下,go back center
+frontcenter,中上中上中上,go front center
 shareone,一组分担,group one share
 sharetwo,二组分担,group two share
 jumpnow,快跳,jump now
 202792,快咬人,bite now
+movecenter,快进中场,move to center
