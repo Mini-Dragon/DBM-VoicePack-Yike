@@ -27,7 +27,7 @@ dispelboss,驱散boss,dispel boss
 158134,盾牌冲锋,Shield Charge
 158093,震荡怒吼,Interrupting Shout
 157952,粉碎,Pulverize
-157943,旋风斩,Whirlwind
+whirlwind,旋风斩,Whirlwind
 158057,致衰咆哮,Enfeebling Roar
 158200,地震,Quake
 
@@ -98,7 +98,7 @@ Thogar/B1E4,一轨道小怪四轨道喷火,lane 1 Reinforcements and lane 4 Defo
 Thogar/D2B3,二轨道大怪三轨道小怪,lane 2 Man On Arms and lane 3 Reinforcements
 
 
-158078,远离连线,far away from lines
+farfromline,远离连线,far away from lines
 158599,火炮快打,"attack turret"
 1695uktar,乌克塔准备,uktar on the boat
 1695gorak,高莱克准备,gorak on the boat
