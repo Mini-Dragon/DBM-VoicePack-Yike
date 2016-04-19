@@ -137,8 +137,7 @@ watchorb,注意宝珠,"watch orb"
 184964a,第一位拉断枷锁,break torment first
 184964b,第二位拉断枷锁,break torment second
 184964c,第三位拉断枷锁,break torment third
-184964d,第四位拉断枷锁,break torment fourth
-184964e,第五位拉断枷锁,break torment fifth
+
 189897,魔火之魂快打,attack doomfire spirit
 ej11582,召亡者快打,attack Deathcaller
 186123,"快跑,精炼混乱点你","Wrought Chaos on you, run"
@@ -169,3 +168,4 @@ movecenter,快进中场,move to center
 takedamage,承受伤害,take damage
 213576,照亮阴影,bring light to shadows
 205004,照亮小怪,bring light to mob
+fearsoon,准备恐惧,fear incoming
