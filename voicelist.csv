@@ -196,5 +196,16 @@ changemoon,切换区域
 movetimebubble,靠近时间立场
 runtoedge,快靠边站
 
+moveboss
+bosstobeam
+east
+west
+north
+south
+northwest
+northeast
+southwest
+southeast
+
 
 
