@@ -1,8 +1,8 @@
 # DBM-VoicePack-Yike
 
-*请注意，本语音包的所有语音素材版权全部属于夏一可同学，并授权在魔兽世界游戏，及相关游戏视频，直播中使用。
-*如果被发现使用本语音包的素材制作出其他用途语音包，或是其他奇怪的东西，我们会立刻发律师信并死磕到底。
-*有问题，可以在git上留issue，或者去NGA发帖。
+ *  请注意，本语音包的所有语音素材版权全部属于夏一可同学，并授权在魔兽世界游戏，及相关游戏视频，直播中使用。
+ *  如果被发现使用本语音包的素材制作出其他用途语音包，或是其他奇怪的东西，我们会立刻发律师信并死磕到底。
+ *  有问题，可以在git上留issue，或者去NGA发帖。
 
 Curse: http://www.curse.com/addons/wow/dbm-voicepack-yike
 WoWinterface: http://www.wowinterface.com/downloads/info23742-dbm-voicepack-yike.html
