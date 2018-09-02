@@ -174,7 +174,7 @@ helpsoad,帮忙吸收,help soak
 205408d,靠近龙,find dragon
 205408h,靠近猎人,find hunter
 205408w,靠近狼,find wolf
-192094,快躲小怪后面,run behind add
+behindmob,快躲小怪后面,run behind adds
 
 stackhigh,层数过高,stack high
 
@@ -218,3 +218,4 @@ attackshield, 攻击护盾, attack shield
 newmatrix,矩阵点你,matrix on you
 gatheritem,收集物品,gather item
 swapsoon,准备交换,swap soon
+behindboss,快躲boss后面, run behind boss
