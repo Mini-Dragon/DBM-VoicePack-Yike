@@ -1,5 +1,5 @@
-## Interface: 100002
-## X-Min-Interface: 100002
+## Interface: 100100
+## X-Min-Interface: 100100
 ## X-Min-Interface-Classic: 11403
 ## X-Min-Interface-BCC: 20504
 ## X-Min-Interface-Wrath: 30400
@@ -10,7 +10,7 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: 夏一可, Mini_Dragon
-## Version: 20220906
+## Version: 20230501
 ## Notes: https://github.com/Mini-Dragon/DBM-VoicePack-Yike
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: 夏一可(普通话女)
