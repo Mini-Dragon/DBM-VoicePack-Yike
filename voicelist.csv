@@ -243,10 +243,10 @@ bombyou,炸弹点你
 breaklos,快挡视线
 pone,一阶段准备
 
-movetopillar
-positive
-negative
-polarityshift
+movetopillar,靠近柱子
+positive,正极
+negative,负极
+polarityshift,极性反转
 
 pushbackincoming,小心击飞
 changecolor,换颜色
@@ -254,3 +254,4 @@ movetomobs,靠近小怪
 breakvine,打破藤曼
 helpspirit,帮助灵魂
 incomingdebuff,注意debuff
+getknockedup,快上天
