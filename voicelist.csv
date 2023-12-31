@@ -229,7 +229,7 @@ frost,
 toxic,
 breakcoral,
 leavemind,
-lowsanity,low sanity,理智过低
+lowsanity,理智过低,low sanity
 
 lineapart,拉断连线
 movemelee,靠近近战
@@ -255,3 +255,9 @@ breakvine,打破藤曼
 helpspirit,帮助灵魂
 incomingdebuff,注意debuff
 getknockedup,快上天
+
+seedyou,种子点你
+flameyou,火焰点你
+shadowyou,暗影点你
+movetopool,进池子
+frontal,正面
