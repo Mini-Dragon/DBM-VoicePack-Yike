@@ -1,7 +1,7 @@
-## Interface: 100105
-## Interface-Classic: 11403
+## Interface: 100200
+## Interface-Classic: 11404
 ## Interface-BCC: 20504
-## Interface-Wrath: 30402
+## Interface-Wrath: 30403
 
 ## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530Voicepack Yike|r
 ## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530夏一可语音包|r
@@ -9,11 +9,11 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: 夏一可, Mini_Dragon
-## Version: 20230601
+## Version: 20240112
 ## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## Notes: https://github.com/Mini-Dragon/DBM-VoicePack-Yike
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: 夏一可(普通话女)
 ## X-DBM-Voice-ShortName: Yike
-## X-DBM-Voice-Version: 14
+## X-DBM-Voice-Version: 15
 ## X-DBM-Voice-HasCount: 1
