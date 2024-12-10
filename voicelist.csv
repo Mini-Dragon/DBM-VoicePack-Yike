@@ -288,3 +288,7 @@ findclearvent,远离排放口
 movetoflamethrower,靠近喷火器
 runovermobs,碾压小怪
 soakbeam,吸收光束
+movetotendrils,靠近触须
+rollincoming,准备翻滚
+enteringcombat,进入战斗
+leavingcombat,离开战斗
