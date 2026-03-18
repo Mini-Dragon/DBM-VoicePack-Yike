@@ -14,3 +14,4 @@
 ## X-DBM-Voice-ShortName: Yike
 ## X-DBM-Voice-Version: 19
 ## X-DBM-Voice-HasCount: 1
+## X-DBM-Voice-MidnightCompat: 1
